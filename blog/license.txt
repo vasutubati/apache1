@@ -1,3 +1,7 @@
+This is modified to test .gitignore file
+=============================================
+
+
 WordPress - Web publishing software
 
 Copyright 2011-2016 by the contributors
