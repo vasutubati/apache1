@@ -1,5 +1,4 @@
 This is modified to test .gitignore file
-=============================================
 
 
 WordPress - Web publishing software
